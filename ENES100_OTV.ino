@@ -1,9 +1,5 @@
 /* 
- *  last updated: Alina  5/5/22 @ 2:56 PM
- *  added axleFront() and axleStop() functions and incorporated it into loop() 
- *  need to adjust time that axleFront() runs
- *  have fake loop() version 
- *  Vincent adjusted code for distance traveled to obstacle. 
+ *  THIS IS THE CODE USED FOR THE OVER TERRAIN VEHICLE FOR MY ENGINEERING DESIGN CLASS
  */
 
 /* Imported Libraries */
